@@ -8,7 +8,7 @@
 <body>
 
 <h2>Buat Account Baru!</h2>
-    <form action ="/dashboard" method="post">
+    <form action ="/welcome" method="post">
     @csrf
       <fieldset>
         <legend>Sign Up Form</legend>
